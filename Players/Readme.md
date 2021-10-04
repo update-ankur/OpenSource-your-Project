@@ -16,7 +16,7 @@ This is the last game in the FIFA series to be available on a seventh-generation
 
 Track the movement of three gulls namely – Eric, Nico & Sanne
 
-The case study is divied into six parts:
+The case study is divied into three parts:
 
 1. Identify Potential Players
 2. DO SWOT Analysis of Players
